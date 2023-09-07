@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/bdbaraban/AirBnB_clone/blob/master/assets/hbnb_logo.png" alt="HolbertonBnB logo">
+  <img src="https://github.com/davyleroy/AirBnB_clone/blob/master/assets/hbnb_logo.png" alt="HolbertonBnB logo">
 </p>
 
-<h1 align="center">HolbertonBnB</h1>
+<h1 align="center">alu-AirBnB_clone</h1>
 <p align="center">An AirBnB clone.</p>
 
 ---
@@ -277,5 +277,6 @@ $ python3 unittest -m tests/test_console.py
 ```
 
 ## Authors :black_nib:
-* **Brennan D Baraban** <[bdbaraban](https://github.com/bdbaraban)>
-* **Samie Azad** <[sazad44](https://github.com/sazad44)>
+
+* **Davy Nkurunziza** <d.nkurunziz@alutudent.com>  <[davyleroy](https://github.com/davyleroy)>
+* **Emmanuel Yakubu** <e.yakubu@alustudent.com>  <[Emmanuel-Begati](https://github.com/Emmanuel-Begati)>
